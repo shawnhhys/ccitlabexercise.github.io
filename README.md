@@ -1,2 +1,2 @@
 # ccitlabexercise.github.io
-public exercise
+public exercise to upload content
